@@ -17,12 +17,12 @@ The wanderer is at the edge of existence, driven by guilt and desperation. His a
 To play **Timelines**, follow these steps:  
 
 1. **Download the Repo**
-2.**Install Dependencies**
+2. **Install Dependencies**
   ensure you have Python 3 installed, then run:
   ```bash
   pip install pygame
   ```
-3.**Run the Game**  
+3. **Run the Game**  
 ## Known Issues
 
 - The interactive second window showcasing the character’s thoughts is not yet functional.
