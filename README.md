@@ -9,8 +9,9 @@ The wanderer is at the edge of existence, driven by guilt and desperation. His a
 ## Features  
 
 - **Platformer Gameplay**: Navigate through a fully functional platformer inspired by classics in the genre.  
-- **End of Time Narrative**: A unique story exploring themes of guilt, time, and redemption.  
-- **Developed in Record Time**: Built in just over a day, learning Pygame along the way!  
+- **End of Time Narrative**: A unique story exploring themes of guilt, time, and redemption.
+-  **Level Editor**: Easily create and customize your own levels with the built-in level editor, giving players the tools to expand the gameplay experience. 
+- **Developed in Record Time**: Built in less than a day, learning Pygame along the way!  
 
 ## Installation  
 
