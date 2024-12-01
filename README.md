@@ -4,7 +4,7 @@
 
 ## Story Premise  
 
-The wanderer is at the edge of existence, driven by guilt and desperation. His actions have caused a catastrophic collapse of his timeline. He hopes that by reaching the end of time, he will cease to exist and thereby undo the damage, restoring the timeline. Through the game, players traverse challenging levels while experiencing fragments of the character’s thoughts, although the second interactive element showcasing his internal dialogue wasn't fully implemented due to time constraints.  
+The wanderer is at the edge of existence, driven by guilt and desperation. His actions have caused a catastrophic collapse of his timeline. He hopes that by reaching the end of time, he will cease to exist and thereby undo the damage, restoring the timeline. Through the game, players traverse challenging levels while experiencing fragments of the character’s thoughts through our second element positioned at the top of the game.
 
 ## Features  
 
@@ -25,13 +25,7 @@ To play **Timelines**, follow these steps:
   ```
 3. **Run the Game**  
 ## Known Issues
-
-- The interactive second window showcasing the character’s thoughts is not yet functional.
-- There may be occasional bugs due to the rapid development process during the hackathon.
-
-## Development
-
-This project was a team effort created in the spirit of learning and exploration. While the initial idea included two interactive windows (the platformer and a thoughts window), merging work and meeting deadlines proved challenging. Nevertheless, we’re proud to present the playable platformer, which marks our first foray into game development with Pygame.
+- There may be occasional bugs with character boxes due to the rapid development process during the hackathon.
 
 ## License
 This project is released under the MIT License
